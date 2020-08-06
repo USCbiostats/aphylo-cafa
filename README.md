@@ -9,7 +9,8 @@ write this (more info [here](https://www.synapse.org/#!Synapse:syn21035948/wiki/
 
 CAFA 3.14 had a deadline Friday, April 20, 2018 11:59pm Baker Island Time Zone (UTC-12).
 The closest Archived version of the GO dataset is from July 2nd, 2018. It can
-be found here: https://zenodo.org/record/1205167
+be found here: https://zenodo.org/record/1205167 an alternative could be
+the following dataset http://archive.geneontology.org/lite/2018-04-28/
 
 
 ## Implementation plan:
